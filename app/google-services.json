@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982015067033",
+    "project_id": "parking-polines-firebase",
+    "storage_bucket": "parking-polines-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982015067033:android:e94278d650d6da2184c908",
+        "android_client_info": {
+          "package_name": "com.divandaf.parkingpolinesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982015067033-jccf7jjtqm6uagnaveprb83as27fho0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divandaf.parkingpolinesfirebase",
+            "certificate_hash": "dbbbaac07d9fa734f9e0b5751ccbef5ea730df8a"
+          }
+        },
+        {
+          "client_id": "982015067033-bbvr7t3fbotr2bk3mr86lrj6eflu4jhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1cjTjbfi8wR942kNON31vJWEGSMWBd-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982015067033-bbvr7t3fbotr2bk3mr86lrj6eflu4jhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
